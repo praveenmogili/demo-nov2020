@@ -14,3 +14,12 @@ https://api.publicapis.org/entries
 and print out the url name if a input string matches the name and/or description.
 
 
+## Bonus Problem 
+
+Write a Python program to parse the three html files
+1. one.html
+2. two.html
+3. three.html
+
+and find the entries/strings/data under hostname, CPUs and Memory(GB)
+and print them out.
