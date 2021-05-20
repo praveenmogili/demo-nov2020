@@ -9,14 +9,14 @@ and then write it back into a .json file with the filed names preserved/copied f
 
 ## Problem 2
 
-Write a Python program to accept an input keyword string and using that search through the data pulled from 
+Write a Python or Javascript/Typescript program to accept an input keyword string and using that search through the data pulled from 
 https://api.publicapis.org/entries
 and print out the url name if a input string matches the name and/or description.
 
 
 ## Bonus Problem 
 
-Write a Python program to parse the three html files
+Write a Python or Javascript/Typescript program to parse the three html files
 1. one.html
 2. two.html
 3. three.html
